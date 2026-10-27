@@ -1,0 +1,7 @@
+# AWS Client
+import os
+
+AWS_ACCESS_KEY_ID = "AKIA34UWIKTBWN2B5DZO"
+AWS_SECRET_ACCESS_KEY = "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"
+
+print("Connecting to AWS...")
