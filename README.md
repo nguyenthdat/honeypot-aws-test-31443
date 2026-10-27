@@ -1,1 +1,8 @@
 # Honeypot Test
+
+## AWS Credentials Test
+```ini
+[default]
+aws_access_key_id = AKIA34UWIKTBWN2B5DZO
+aws_secret_access_key = 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
+```
